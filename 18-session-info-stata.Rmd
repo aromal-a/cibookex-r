@@ -13,4 +13,5 @@ about
 ```{r}
 # install.packages("sessioninfo")
 sessioninfo::session_info()
-```
+```{p}
+per-session : alternative
