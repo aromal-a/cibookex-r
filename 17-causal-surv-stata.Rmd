@@ -426,3 +426,10 @@ bstat, stat(pe) n(1629)
 ```{r, echo=FALSE, out.width="85%", fig.align='center'}
 knitr::include_graphics("./figs/stata-fig-17-4.png")
 ```
+
+boot parag ; 
+boot ms;
+boot msstate;
+info-stat;
+dynamic_funneling;
+
